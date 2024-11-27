@@ -3,14 +3,14 @@
 
 # Backend
 
-1: to seed all data
+1. to seed all data
 node seeds/seed.js
-2: to run server
+2. to run server
 npm run dev
-3: to fetch all data from mongo
+3. to fetch all data from mongo
 localhost:3001/orders
 
-# frontend
-to start frontend server
-npm run build
-npm run start
+# Command to run frontend app
+1. npm i
+2. npm run build
+3. npm run start
